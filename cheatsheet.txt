@@ -1,0 +1,2 @@
+git add  # add files to stage changes
+git reset # undo a commit or a staged snapshot
